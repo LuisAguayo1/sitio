@@ -1,0 +1,114 @@
+
+.fondo{
+	background-image: url("../images/fondoazul.png");
+
+	background-repeat: repeat;
+
+	background-size: 100%;
+
+	background-position: center top;
+
+	width: 100%;
+
+	display: block;
+
+	position: relative;
+
+	margin-right: auto;
+
+	margin-left: auto;
+
+	padding: -10px;
+
+	height: 90vh;
+
+
+}
+
+
+.cotexca{
+
+	display: block;
+
+	position: relative;
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+	width: 100px;
+
+}
+
+.lead {
+
+	text-align: justify;
+
+	font-size: 15px;
+
+}
+
+.imagenpaloma{
+	margin-top: 0px;
+
+	margin-left: -10px;
+
+	width: 65vw;
+
+	height: 40vw;
+
+	position: relative;
+}
+
+
+
+.textofashion{
+	margin-top:  -450px;
+
+	margin-left: 20px;
+
+	width: 50vw;
+
+	height: 40vw;
+
+    margin-left: 600px;
+
+    margin-right: auto;
+
+    position: relative;
+
+}
+
+.logocotexca{
+	margin-top:  -177px;
+
+	margin-left: 20px;
+
+	width: 45vw;
+
+	height: 12vw;
+
+    margin-left: 670px;
+
+    margin-right: auto;
+
+    position: relative;
+
+}
+
+.construccion{
+	margin-top:  -90px;
+
+	margin-left: 80px;
+
+	margin-right: auto;
+
+	width: 40vw;
+
+	height: 10vw;
+
+    margin-right: auto;
+
+    position: relative;
+
+}

@@ -1,0 +1,140 @@
+.navbar-default {
+    background-color: #fff;
+    border-color: #090909;
+    font-size: 21px;
+}
+
+#logocotexca{
+	width:10vw;
+
+	height: 3vw;
+	margin-bottom: 10px;
+
+}
+
+.logopie{
+	width:10vw;
+
+	height: 10vw;
+	margin-bottom: 10px;
+
+}
+
+.imgproductos{
+
+	width: 80%;
+
+	height: 80%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    position: relative;
+
+}
+
+
+.nosotros{
+	background-image: url(../images/nosotrosfondo.png);
+
+	background-position: center;
+
+	background-repeat: no-repeat;
+
+	background-size: 100vw;
+
+	ba
+
+}
+
+.video{
+
+	padding-top: 50px;
+
+	padding-left: 50px;
+
+	size: 100vw;
+
+	width: 35vw;
+
+	height: 23vw;
+
+}
+
+.proyecto{
+	background-image: url(../images/proyectofondo.png);
+
+	background-repeat: no-repeat;
+
+	background-position: center;
+
+	background-size: 100vw;
+}
+
+#titleproyect{
+ 
+ font-size: 60px;
+
+ color: white;
+
+ font-weight: bold;
+
+  text-align: right;
+
+}
+
+#titlenos{
+ 
+ font-size: 60px;
+
+ color: black;
+
+ font-weight: bold;
+
+  text-align: right;
+
+}
+
+
+.figura{
+	width: 10vw; 
+
+	height: 80%;
+
+}
+
+
+.fondo{
+	background-image: url("images/fondopage.png");
+
+	background-repeat: repeat;
+
+	background-size: 100%;
+
+	background-position: center top;
+
+	width: 100%;
+
+	display: block;
+
+	position: relative;
+
+	margin-right: auto;
+
+	margin-left: auto;
+
+	padding: -10px;
+
+	height: 90vh;
+
+
+}
+
+
+.pie{
+	background-color: #000000;
+
+
+}
+

@@ -1,0 +1,106 @@
+[11-Jul-2017 17:10:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/cotexca/public_html/sistema/core/database.php on line 23
+[11-Jul-2017 17:10:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/cotexca/public_html/sistema/core/database.php on line 39
+[11-Jul-2017 17:10:22 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:10:22 UTC] PHP Notice:  Undefined index: id in /home/cotexca/public_html/sistema/core/sesion.php on line 59
+[11-Jul-2017 17:10:52 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:10:52 UTC] PHP Notice:  Undefined index: id in /home/cotexca/public_html/sistema/core/sesion.php on line 59
+[11-Jul-2017 17:10:57 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:10:57 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:10:57 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:10:57 UTC] PHP Notice:  Undefined index: id_modulo in /home/cotexca/public_html/sistema/core/content.php on line 79
+[11-Jul-2017 17:10:57 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/content.php on line 91
+[11-Jul-2017 17:10:57 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:11:01 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:11:01 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:11:01 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:11:01 UTC] PHP Notice:  Undefined variable: rows in /home/cotexca/public_html/sistema/modulos/CATEGORIAS/funciones.php on line 10
+[11-Jul-2017 17:11:01 UTC] PHP Notice:  Undefined offset: 1 in /home/cotexca/public_html/sistema/modulos/CATEGORIAS/funciones.php on line 10
+[11-Jul-2017 17:11:01 UTC] PHP Notice:  Undefined offset: 2 in /home/cotexca/public_html/sistema/modulos/CATEGORIAS/funciones.php on line 10
+[11-Jul-2017 17:11:01 UTC] PHP Notice:  Undefined offset: 3 in /home/cotexca/public_html/sistema/modulos/CATEGORIAS/funciones.php on line 10
+[11-Jul-2017 17:11:05 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:11:05 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:11:05 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:11:05 UTC] PHP Notice:  Undefined index: buscar in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 12
+[11-Jul-2017 17:11:05 UTC] PHP Notice:  Undefined variable: rows in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 52
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:11:06 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined variable: opt in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 87
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined offset: 1 in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 87
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined offset: 2 in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 87
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined offset: 3 in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 87
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: id_categoria in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 84
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: nombre_producto in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 95
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: clave_producto in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 98
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: precio_producto in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 101
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: existencia_producto in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 104
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined index: descripcion_producto in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 114
+[11-Jul-2017 17:11:06 UTC] PHP Notice:  Undefined variable: img_chk in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 124
+[11-Jul-2017 17:12:06 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:12:06 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:12:06 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:12:06 UTC] PHP Notice:  Undefined index: buscar in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 12
+[11-Jul-2017 17:12:06 UTC] PHP Notice:  Undefined variable: rows in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 36
+[11-Jul-2017 17:12:09 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:12:09 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:12:09 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:12:09 UTC] PHP Notice:  Undefined variable: opt in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 87
+[11-Jul-2017 17:12:09 UTC] PHP Notice:  Undefined offset: 1 in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 87
+[11-Jul-2017 17:12:09 UTC] PHP Notice:  Undefined offset: 2 in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 87
+[11-Jul-2017 17:12:09 UTC] PHP Notice:  Undefined offset: 3 in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 87
+[11-Jul-2017 17:12:14 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:12:14 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:12:14 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:12:14 UTC] PHP Notice:  Undefined index: buscar in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 12
+[11-Jul-2017 17:12:14 UTC] PHP Notice:  Undefined variable: rows in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 36
+[11-Jul-2017 17:12:22 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:12:22 UTC] PHP Notice:  Undefined index: id in /home/cotexca/public_html/sistema/core/sesion.php on line 59
+[11-Jul-2017 17:14:26 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:14:26 UTC] PHP Notice:  Undefined index: id in /home/cotexca/public_html/sistema/core/sesion.php on line 59
+[11-Jul-2017 17:14:35 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:14:35 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:14:35 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:14:35 UTC] PHP Notice:  Undefined index: id_modulo in /home/cotexca/public_html/sistema/core/content.php on line 79
+[11-Jul-2017 17:14:35 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/content.php on line 91
+[11-Jul-2017 17:14:35 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:14:40 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:14:40 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:14:40 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 17:14:40 UTC] PHP Notice:  Undefined variable: rows in /home/cotexca/public_html/sistema/modulos/CATEGORIAS/funciones.php on line 10
+[11-Jul-2017 17:14:40 UTC] PHP Notice:  Undefined offset: 1 in /home/cotexca/public_html/sistema/modulos/CATEGORIAS/funciones.php on line 10
+[11-Jul-2017 17:14:40 UTC] PHP Notice:  Undefined offset: 2 in /home/cotexca/public_html/sistema/modulos/CATEGORIAS/funciones.php on line 10
+[11-Jul-2017 17:14:40 UTC] PHP Notice:  Undefined offset: 3 in /home/cotexca/public_html/sistema/modulos/CATEGORIAS/funciones.php on line 10
+[11-Jul-2017 17:20:37 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:20:37 UTC] PHP Notice:  Undefined index: id in /home/cotexca/public_html/sistema/core/sesion.php on line 59
+[11-Jul-2017 17:20:37 UTC] PHP Notice:  Undefined index: id in /home/cotexca/public_html/sistema/core/sesion.php on line 60
+[11-Jul-2017 17:20:41 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:20:49 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:20:53 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:20:59 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/sesion.php on line 18
+[11-Jul-2017 17:20:59 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:20:59 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 17:20:59 UTC] PHP Notice:  Undefined index: id_modulo in /home/cotexca/public_html/sistema/core/content.php on line 79
+[11-Jul-2017 17:20:59 UTC] PHP Notice:  Undefined index: accion in /home/cotexca/public_html/sistema/core/content.php on line 91
+[11-Jul-2017 17:20:59 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 19:28:15 UTC] PHP Notice:  Undefined offset: 10 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 19:28:15 UTC] PHP Notice:  Undefined offset: 30 in /home/cotexca/public_html/sistema/core/content.php on line 58
+[11-Jul-2017 19:28:16 UTC] PHP Deprecated:  Non-static method Elemento::contenido() should not be called statically, assuming $this from incompatible context in /home/cotexca/public_html/sistema/core/content.php on line 94
+[11-Jul-2017 19:28:16 UTC] PHP Notice:  Undefined index: buscar in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 12
+[11-Jul-2017 19:28:16 UTC] PHP Notice:  Undefined variable: rows in /home/cotexca/public_html/sistema/modulos/PRODUCTOS/funciones.php on line 36
